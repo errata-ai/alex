@@ -1,0 +1,13 @@
+---
+extends: sequence
+message: "'%[1]s' may be insensitive, when referring to a person, use 'kid', 'child', or 'youth' instead."
+ignorecase: true
+level: warning
+tokens:
+  # Usage of 'he' or 'she' + one word in between ('or').
+  - pattern: boy|girl
+    skip: 1
+
+  # Any word other than 'he' or 'she'
+  - pattern: boy|girl
+    negate: true
