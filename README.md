@@ -1,4 +1,4 @@
-# alex [![Build Status](https://travis-ci.org/errata-ai/alex.svg?branch=master)](https://travis-ci.org/errata-ai/alex) ![Vale version](https://img.shields.io/badge/vale-%3E%3D%20v1.7.0-blue.svg) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
+# alex [![Build Status](https://travis-ci.com/errata-ai/alex.svg?branch=master)](https://travis-ci.com/errata-ai/alex) ![Vale version](https://img.shields.io/badge/vale-%3E%3D%20v1.7.0-blue.svg) ![license](https://img.shields.io/github/license/mashape/apistatus.svg)
 
 > [`alex`](https://github.com/get-alex/alex): Catch insensitive, inconsiderate writing.
 
