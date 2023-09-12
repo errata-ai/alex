@@ -83,5 +83,3 @@ swap:
   whitelist: passlist|alrightlist|safelist|allow list
   whitelisted: passlisted|alrightlisted|safelisted|allow-listed
   whitelisting: passlisting|alrightlisting|safelisting|allow-listing
-  whitespace: space|blank
-  whitespaces: space|blank
